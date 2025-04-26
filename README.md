@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Max from Belgium 🇧🇪<br><br>- 🔭 I’m currently a college student<br>- 📚 I'm currently learning computer science<br>- ⚡️ In my free time I dabble in the stock market<br>- ☀️ I’m a light theme proud and power user</p>
+<p align="left">I'm Max from Belgium 🇧🇪<br><br>- 🔭 I’m currently a college student<br>- 📚 I'm currently learning computer science<br>- ⚡️ In my free time I dabble in the stock market<br>- ☀️ I’m a light theme power user</p>
 
 ###
 
