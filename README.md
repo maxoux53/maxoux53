@@ -2,6 +2,10 @@
 
 ###
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/448518859184406529?idleMessage=not%20doing%20anything%20atm%20%3A%2F&showDisplayName=true&hideBadges=true&hideProfile=true)](https://discord.com/users/448518859184406529)
+
+###
+
 <h3 align="left">🧑‍💻  About Me</h3>
 
 ###
